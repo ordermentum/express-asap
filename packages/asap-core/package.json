@@ -10,7 +10,7 @@
     "@ordermentum/asap-test-helpers": "*",
     "@types/chai": "4.3.0",
     "@types/express": "4.17.13",
-    "@types/jsonwebtoken": "8.5.8",
+    "@types/jsonwebtoken": "8.5.9",
     "@types/mocha": "9.1.0",
     "@types/node": "17.0.21",
     "@types/node-cache": "4.2.5",
